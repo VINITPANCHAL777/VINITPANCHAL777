@@ -20,7 +20,7 @@
 - 🔭 Currently working on **MERN Stack Projects**
 - 🌱 Learning **Frameworks, React Native & DevOps**
 - 💬 Ask me about **React, Vue, Web Development, DevOps & DSA**
-- 📫 Reach me at **vinitpanchal27@gmail.com**
+- 📫 Reach me at **vinitpanchal278@gmail.com**
 - ⚡ Fun Fact: **I think I am kind 😄**
 
 ---
