@@ -49,7 +49,7 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,angular,nodejs,express,mongodb,mysql,java,python,php,c,cpp,bootstrap,sass,webpack,docker,firebase,flutter,aws,oracle,kotlin,django&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,angular,nodejs,express,mongodb,mysql,java,python,php,c,vinit,bootstrap,sass,webpack,docker,firebase,flutter,aws,oracle,kotlin,django&perline=8" />
 </p>
 
 ---
