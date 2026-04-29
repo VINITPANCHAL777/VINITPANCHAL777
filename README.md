@@ -17,7 +17,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 Currently working on **MERN Stack Projects**
+- 🔭 Currently working on **MERN Stack Project**
 - 🌱 Learning **Frameworks, React Native & DevOps**
 - 💬 Ask me about **React, Vue, Web Development, DevOps & DSA**
 - 📫 Reach me at **vinitpanchal278@gmail.com**
