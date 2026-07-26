@@ -26,7 +26,6 @@
 ---
 
 ## 🏆 GitHub Achievements
-https://learn.microsoft.com/api/achievements/share/en-us/vinitpanchal-7185/FQ2CQQEX?sharingId=F39947EE197C79C3
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vinitpanchal777&theme=onedark&no-frame=true&row=1&column=6" />
@@ -70,7 +69,7 @@ https://learn.microsoft.com/api/achievements/share/en-us/vinitpanchal-7185/FQ2CQ
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinitpanchal777&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-https://camo.githubusercontent.com/154e74646ac17b0286e754c538b39be2dfc5f5bf06dcd97aac1e143c64b5f8dc/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667
+
 ---
 
 ## 🚀 What I Love Doing
