@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # Hi 👋, I'm Vinit Panchal
@@ -21,11 +20,11 @@
 
 # 💫 About Me
 
-💻 Passionate about Software Development, Artificial Intelligence and Data Analytics.
+💻 Passionate about **Software Development, Artificial Intelligence & Data Analytics.**
 
-🎓 B.Tech Computer Science Student
+🎓 **B.Tech Computer Science Student**
 
-🌱 Currently Learning
+🌱 **Currently Learning**
 
 - Artificial Intelligence
 - Data Analytics
@@ -33,19 +32,19 @@
 - Backend Development
 - OpenAI APIs
 
-🚀 Current Goal
+🚀 **Current Goal**
 
 Build impactful AI applications that solve real-world problems.
 
-⚡ Fun Fact
+⚡ **Fun Fact**
 
-> "I believe consistency beats talent."
+> *"I believe consistency beats talent."*
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="mailto:vinitpanchal278@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -75,22 +74,23 @@ Build impactful AI applications that solve real-world problems.
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
 ## 💼 Professional Profile
 
 ```yaml
-Name          : Vinit Panchal
-Role          : Python Developer
-Specialization: Artificial Intelligence & Data Analytics
-Education     : B.Tech Computer Science (2023–2027)
-Location      : Rajasthan, India
-Open To       : Internship | Freelance | Open Source | Full-Time Opportunities
+Name           : Vinit Panchal
+Role           : Python Developer
+Specialization : Artificial Intelligence & Data Analytics
+Education      : B.Tech Computer Science (2023–2027)
+Location       : Rajasthan, India
+Open To        : Internship | Freelance | Open Source | Full-Time Opportunities
 ```
 
 ---
+
 # 💻 Tech Stack
 
 <div align="center">
@@ -98,7 +98,7 @@ Open To       : Internship | Freelance | Open Source | Full-Time Opportunities
 ### 👨‍💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,javascript" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,javascript" />
 </p>
 
 ---
@@ -106,12 +106,12 @@ Open To       : Internship | Freelance | Open Source | Full-Time Opportunities
 ### ⚡ AI, Data Analytics & Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 </p>
 
 ---
@@ -119,7 +119,7 @@ Open To       : Internship | Freelance | Open Source | Full-Time Opportunities
 ### 🛠 Frameworks & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,anaconda,linux,stackoverflow" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,anaconda,linux,stackoverflow" />
 </p>
 
 ---
@@ -127,7 +127,7 @@ Open To       : Internship | Freelance | Open Source | Full-Time Opportunities
 ### 🗄 Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 </p>
 
 ---
@@ -135,19 +135,13 @@ Open To       : Internship | Freelance | Open Source | Full-Time Opportunities
 ### 📊 Data Visualization & Productivity
 
 <p>
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </p>
 
----
-
+</div>
 
 ---
 
@@ -155,21 +149,26 @@ Open To       : Internship | Freelance | Open Source | Full-Time Opportunities
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=VINITPANCHAL777&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=VINITPANCHAL777&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VINITPANCHAL777&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VINITPANCHAL777&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <img src="https://streak-stats.demolab.com?user=VINITPANCHAL777&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VINITPANCHAL777&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
 ---
 
 # 🐍 Contribution Snake
@@ -177,20 +176,15 @@ Open To       : Internship | Freelance | Open Source | Full-Time Opportunities
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VINITPANCHAL777/VINITPANCHAL777/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VINITPANCHAL777/VINITPANCHAL777/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake animation"
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/VINITPANCHAL777/VINITPANCHAL777/output/github-contribution-grid-snake-dark.svg">
+
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/VINITPANCHAL777/VINITPANCHAL777/output/github-contribution-grid-snake.svg">
+
+  <img alt="GitHub Contribution Snake"
        src="https://raw.githubusercontent.com/VINITPANCHAL777/VINITPANCHAL777/output/github-contribution-grid-snake.svg">
 </picture>
-
-</div>
-
----
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VINITPANCHAL777&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -211,7 +205,7 @@ Open To       : Internship | Freelance | Open Source | Full-Time Opportunities
 <div align="center">
 
 | Platform | Profile |
-|----------|---------|
+| :--- | :--- |
 | 💻 GitHub | https://github.com/VINITPANCHAL777 |
 | 🟠 LeetCode | https://leetcode.com/u/vinitpanchal/ |
 | 🟢 HackerRank | https://www.hackerrank.com/profile/vinitpanchal278 |
@@ -226,13 +220,19 @@ Open To       : Internship | Freelance | Open Source | Full-Time Opportunities
 
 <div align="center">
 
-🥇 **TCS CodeVita Season 13**
-> 🌍 Secured **Global Rank #16,562** among thousands of participants.
+### 🥇 TCS CodeVita Season 13
 
-🎓 **Bachelor of Technology (B.Tech)**
-> Computer Science Engineering
-> Rajasthan Technical University
-> **2023 – 2027**
+🌍 Secured **Global Rank #16,562** among thousands of participants.
+
+<br>
+
+### 🎓 Bachelor of Technology (B.Tech)
+
+Computer Science Engineering
+
+Rajasthan Technical University
+
+**2023 – 2027**
 
 </div>
 
@@ -243,7 +243,7 @@ Open To       : Internship | Freelance | Open Source | Full-Time Opportunities
 <div align="center">
 
 | 🎖 Certification | Organization |
-|-----------------|--------------|
+| :--- | :--- |
 | Data Analysis with Python | Cognitive Class |
 | Java Training | IIT Bombay Spoken Tutorial |
 | Advanced C++ | IIT Bombay Spoken Tutorial |
@@ -253,21 +253,14 @@ Open To       : Internship | Freelance | Open Source | Full-Time Opportunities
 
 ---
 
-
-
 # 🎯 2026 Goals
 
-✅ Contribute to Open Source
-
-✅ Build AI Products
-
-✅ Master Backend Development
-
-✅ Solve 500+ DSA Problems
-
-✅ Earn More GitHub Achievements
-
-✅ Crack a Product-Based Company
+- ✅ Contribute to Open Source
+- ✅ Build AI Products
+- ✅ Master Backend Development
+- ✅ Solve 500+ DSA Problems
+- ✅ Earn More GitHub Achievements
+- ✅ Crack a Product-Based Company
 
 ---
 
@@ -281,106 +274,28 @@ Open To       : Internship | Freelance | Open Source | Full-Time Opportunities
 
 ---
 
-
-
-
 # 🧠 Skills Demonstrated
 
-✅ Problem Solving
-
-✅ Object-Oriented Programming
-
-✅ Data Structures & Algorithms
-
-✅ REST API Integration
-
-✅ Artificial Intelligence
-
-✅ Data Analytics
-
-✅ Machine Learning Fundamentals
-
-✅ Team Collaboration
-
-✅ Critical Thinking
-
-✅ Communication Skills
+- ✅ Problem Solving
+- ✅ Object-Oriented Programming
+- ✅ Data Structures & Algorithms
+- ✅ REST API Integration
+- ✅ Artificial Intelligence
+- ✅ Data Analytics
+- ✅ Machine Learning Fundamentals
+- ✅ Team Collaboration
+- ✅ Critical Thinking
+- ✅ Communication Skills
 
 ---
 
-
-
-# 🌟 Open Source Journey
+# 📊 GitHub Summary
 
 <div align="center">
-
-
-
-### 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VINITPANCHAL777&theme=github-compact&hide_border=true"/>
-
----
-
-### 📊 GitHub Summary
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VINITPANCHAL777&theme=github_dark"/>
 
 </div>
-
----
-
-# 🌍 Connect With Me
-
-<p align="center">
-
-<a href="mailto:vinitpanchal278@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"/>
-</a>
-
-<a href="https://www.linkedin.com/in/vinitpanchal278/">
-<img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge"/>
-</a>
-
-<a href="https://www.vinitpanchal.xyz/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge"/>
-</a>
-
-</p>
-
-
-
----
-
-# 🌍 Let's Connect
-
-<p align="center">
-
-<a href="mailto:vinitpanchal278@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-vinitpanchal278%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/vinitpanchal278/">
-<img src="https://img.shields.io/badge/LinkedIn-Vinit%20Panchal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/VINITPANCHAL777">
-<img src="https://img.shields.io/badge/GitHub-VINITPANCHAL777-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/vinitpanchal/">
-<img src="https://img.shields.io/badge/LeetCode-Solve%20Problems-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/profile/vinitpanchal278">
-<img src="https://img.shields.io/badge/HackerRank-5★%20Coder-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="https://www.vinitpanchal.xyz/">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Now-blueviolet?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-</p>
 
 ---
 
@@ -407,9 +322,9 @@ me = VinitPanchal()
 print(me.life_goal())
 ```
 
-Output
+### Output
 
-```
+```text
 Build technology that creates real-world impact.
 ```
 
@@ -417,21 +332,11 @@ Build technology that creates real-world impact.
 
 # 💬 Favorite Quote
 
+<div align="center">
+
 > **"First, solve the problem. Then, write the code."**
 >
-> — John Johnson
-
----
-
-
-
-<div align="center">
-
-
-
-<div align="center">
-
-
+> **— John Johnson**
 
 </div>
 
@@ -439,21 +344,18 @@ Build technology that creates real-world impact.
 
 <div align="center">
 
-### 🚀 Thanks for visiting my GitHub Profile!
+## 🚀 Thanks for Visiting My GitHub Profile!
 
-If you like my work,
+⭐ Star my repositories if you like my work.
 
-⭐ Star my repositories
+🍴 Fork interesting projects.
 
-🍴 Fork interesting projects
+🤝 Connect with me on LinkedIn.
 
-🤝 Connect with me on LinkedIn
+📧 Open to collaborations and exciting opportunities.
 
-📧 Reach out for collaboration
-
----
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
 
 </div>
-
