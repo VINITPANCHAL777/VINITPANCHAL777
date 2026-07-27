@@ -159,6 +159,12 @@ Open To        : Internship | Freelance | Open Source | Full-Time Opportunities
 
 </div>
 
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VINITPANCHAL777&theme=github_dark"/>
+
+<br>
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VINITPANCHAL777&theme=github_dark"/>
+
 ---
 
 # 📈 Contribution Activity
