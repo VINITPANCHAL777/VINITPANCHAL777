@@ -2,7 +2,8 @@
 
 # Hi 👋, I'm Vinit Panchal
 
-### 🚀 B.Tech Computer Science Student | Python Developer | AI & Data Analytics Enthusiast
+### 🚀 B.Tech Computer Science Student | Python Developer | AI & Data Analytics Enthusiast | kem choo?
+
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Python+Developer;AI+%26+Data+Analytics+Enthusiast;Open+Source+Learner;Building+Projects+That+Solve+Real+Problems;Always+Learning+Something+New" />
 
