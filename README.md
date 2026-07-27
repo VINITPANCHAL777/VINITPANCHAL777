@@ -148,21 +148,6 @@ Open To       : Internship | Freelance | Open Source | Full-Time Opportunities
 
 ---
 
-### ⚙ Currently Exploring
-
-🐍 Python Development
-
-🤖 Artificial Intelligence
-
-📊 Data Analytics
-
-🧠 Machine Learning
-
-☁️ APIs & LLM Integrations
-
-🚀 Open Source Contributions
-
-</div>
 
 ---
 
@@ -229,13 +214,6 @@ Open To       : Internship | Freelance | Open Source | Full-Time Opportunities
 🥇 **TCS CodeVita Season 13**
 > 🌍 Secured **Global Rank #16,562** among thousands of participants.
 
-🏆 **Code-Crunch Hackathon Winner**
-> Built innovative solutions under time constraints and demonstrated strong teamwork & problem-solving skills.
-
-💼 **Flutter Developer Intern**
-> **RemarkInfo Software Solutions**
-> Worked on the **ADAB Mobile Application**, integrated REST APIs, implemented widget-based architecture, and improved app performance.
-
 🎓 **Bachelor of Technology (B.Tech)**
 > Computer Science Engineering
 > Rajasthan Technical University
@@ -260,18 +238,7 @@ Open To       : Internship | Freelance | Open Source | Full-Time Opportunities
 
 ---
 
-# 🚀 Career Highlights
 
-- 🚀 Python Developer
-- 🤖 AI & LLM Enthusiast
-- 📊 Data Analytics Learner
-- 💻 Open Source Learner
-- 🌐 API Integration
-- 🧠 Problem Solver
-- ⚡ Fast Learner
-- 📈 Continuous Improvement Mindset
-
----
 
 # 🎯 2026 Goals
 
@@ -299,73 +266,8 @@ Open To       : Internship | Freelance | Open Source | Full-Time Opportunities
 
 ---
 
-# 🚀 Featured Projects
 
-<div align="center">
 
-<table>
-
-<tr>
-
-<td width="50%">
-
-### 🤖 AI Voice Assistant
-
-Python-based AI Voice Assistant capable of understanding voice commands and performing smart tasks using AI.
-
-**⚙ Tech Stack**
-
-Python • OpenAI API • Speech Recognition • Text-to-Speech • API Integration
-
-</td>
-
-<td width="50%">
-
-### 💬 OpenAI Chatbot
-
-An intelligent chatbot built using OpenAI Responses API with streaming responses, function calling and structured outputs.
-
-**⚙ Tech Stack**
-
-Python • OpenAI • REST API • JSON
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 📊 Sales Data Analysis
-
-Performed Exploratory Data Analysis (EDA) on sales datasets to identify trends and generate actionable business insights.
-
-**⚙ Tech Stack**
-
-Python • Pandas • NumPy • Matplotlib
-
-</td>
-
-<td width="50%">
-
-### 📱 ADAB Mobile Application
-
-Worked as a Flutter Developer Intern on the ADAB application by implementing widget-based architecture and integrating REST APIs.
-
-**⚙ Tech Stack**
-
-Flutter • Dart • REST API • Git
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
----
 
 # 🧠 Skills Demonstrated
 
@@ -391,59 +293,13 @@ Flutter • Dart • REST API • Git
 
 ---
 
-# 💼 Professional Experience
 
-### 🚀 Flutter Developer Intern
-
-**RemarkInfo Software Solutions**
-
-📍 Ahmedabad, Gujarat
-
-- Developed scalable Flutter modules.
-- Integrated REST APIs.
-- Improved application performance.
-- Worked on the ADAB mobile application.
-- Collaborated with the development team.
-
----
-
-# 📚 Currently Learning
-
-🐍 Advanced Python
-
-🤖 Artificial Intelligence
-
-📊 Machine Learning
-
-🌐 Backend Development
-
-☁️ Cloud Computing
-
-⚡ Open Source Contributions
-
----
 
 # 🌟 Open Source Journey
 
 <div align="center">
 
-### 💻 I believe in learning by building.
 
-🚀 I enjoy solving real-world problems through code.
-
-🌱 Currently improving my skills in
-
-• Artificial Intelligence
-
-• Data Analytics
-
-• Backend Development
-
-• Open Source
-
-• System Design
-
----
 
 ### 📈 Contribution Graph
 
@@ -477,29 +333,7 @@ Flutter • Dart • REST API • Git
 
 </p>
 
----
 
-# ⚡ Developer Philosophy
-
-> **"Code. Learn. Improve. Repeat."**
-
-> **"Small improvements every day lead to remarkable results."**
-
----
-
-# 🤝 Let's Collaborate
-
-I'm always open to collaborating on
-
-🤖 AI Projects
-
-📊 Data Analytics
-
-🐍 Python Projects
-
-🌐 Open Source
-
-🚀 Innovative Ideas
 
 ---
 
@@ -574,75 +408,17 @@ Build technology that creates real-world impact.
 
 ---
 
-# 📅 Current Focus
 
-🧠 Mastering Data Structures & Algorithms
-
-🤖 Building AI Applications
-
-📊 Data Analytics Projects
-
-🌐 Backend Development
-
-☁️ Learning Cloud Technologies
-
-🚀 Open Source Contributions
-
----
-
-# ⚡ Fun Facts
-
-☕ I enjoy building projects more than watching tutorials.
-
-🚀 I believe consistency beats motivation.
-
-📚 Every project teaches something new.
-
-💻 I love turning ideas into reality with code.
-
----
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
 
-If you like my work, don't forget to ⭐ my repositories.
-
-</div>
-
----
-
----
-
-# 📈 2026 Roadmap
 
 <div align="center">
 
-| Goal | Status |
-|------|--------|
-| 🚀 Master Python | 🟢 In Progress |
-| 📊 Data Analytics | 🟢 In Progress |
-| 🤖 Artificial Intelligence | 🟢 In Progress |
-| 🧠 Data Structures & Algorithms | 🟢 In Progress |
-| 🌐 Open Source Contributions | 🟡 Coming Soon |
-| ☁️ Cloud Computing | 🟡 Learning |
-| 💼 Software Development | 🟢 Building Projects |
+
 
 </div>
-
----
-
-# 🤝 Open for Opportunities
-
-💼 Software Development Internship
-
-🤖 Artificial Intelligence Projects
-
-📊 Data Analytics Projects
-
-🐍 Python Development
-
-🌐 Open Source Collaboration
 
 ---
 
